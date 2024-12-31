@@ -1,0 +1,1 @@
+You need to manually add a song to the project files in order for it to work. Since the upload its only 25 MB it might not show any images or sound files. So those files are just the code and only the code.
